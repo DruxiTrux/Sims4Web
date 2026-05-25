@@ -1,0 +1,452 @@
+{
+    "EP01": {
+        "nombre": "¡A Trabajar!",
+        "fecha": "31/03/2015"
+    },
+    "EP02": {
+        "nombre": "¿Quedamos?",
+        "fecha": "08/12/2015"
+    },
+    "EP03": {
+        "nombre": "Urbanitas",
+        "fecha": "01/11/2016"
+    },
+    "EP04": {
+        "nombre": "Perros y Gatos",
+        "fecha": "10/11/2017"
+    },
+    "EP05": {
+        "nombre": "Las 4 Estaciones",
+        "fecha": "22/06/2018"
+    },
+    "EP06": {
+        "nombre": "¡Rumbo a la Fama!",
+        "fecha": "16/11/2018"
+    },
+    "EP07": {
+        "nombre": "Vida Isleña",
+        "fecha": "21/06/2019"
+    },
+    "EP08": {
+        "nombre": "Días de Universidad",
+        "fecha": "15/11/2019"
+    },
+    "EP09": {
+        "nombre": "Vida Ecológica",
+        "fecha": "05/06/2020"
+    },
+    "EP10": {
+        "nombre": "Escapada a la Nieve",
+        "fecha": "13/11/2020"
+    },
+    "EP11": {
+        "nombre": "Vida en el Pueblo",
+        "fecha": "22/07/2021"
+    },
+    "EP12": {
+        "nombre": "Años High School",
+        "fecha": "28/07/2022"
+    },
+    "EP13": {
+        "nombre": "Creciendo en Familia",
+        "fecha": "16/03/2023"
+    },
+    "EP14": {
+        "nombre": "Rancho de Caballos",
+        "fecha": "20/07/2023"
+    },
+    "EP15": {
+        "nombre": "Se Alquila",
+        "fecha": "07/12/2023"
+    },
+    "EP16": {
+        "nombre": "¡Viva el Amor!",
+        "fecha": "25/07/2024"
+    },
+    "EP17": {
+        "nombre": "Vida y Más Allá",
+        "fecha": "31/10/2024"
+    },
+    "EP18": {
+        "nombre": "Ocio y Negocio",
+        "fecha": "06/03/2025"
+    },
+    "EP19": {
+        "nombre": "Naturaleza Encantada",
+        "fecha": "10/07/2025"
+    },
+    "EP20": {
+        "nombre": "¡A la Aventura!",
+        "fecha": "02/10/2025"
+    },
+    "EP21": {
+        "nombre": "Dinastías y Linajes",
+        "fecha": "12/02/2026"
+    },
+
+    "GP01": {
+        "nombre": "De Acampada",
+        "fecha": "13/01/2015"
+    },
+    "GP02": {
+        "nombre": "Día de Spa",
+        "fecha": "14/07/2015"
+    },
+    "GP03": {
+        "nombre": "Escapada Gourmet",
+        "fecha": "07/06/2016"
+    },
+    "GP04": {
+        "nombre": "Vampiros",
+        "fecha": "24/01/2017"
+    },
+    "GP05": {
+        "nombre": "Papás y Mamás",
+        "fecha": "30/05/2017"
+    },
+    "GP06": {
+        "nombre": "Aventura en la Selva",
+        "fecha": "27/02/2018"
+    },
+    "GP07": {
+        "nombre": "StrangerVille",
+        "fecha": "26/02/2019"
+    },
+    "GP08": {
+        "nombre": "El Reino de la Magia",
+        "fecha": "10/09/2019"
+    },
+    "GP09": {
+        "nombre": "Star Wars: Viaje a Batuu",
+        "fecha": "08/09/2020"
+    },
+    "GP10": {
+        "nombre": "Interiorismo",
+        "fecha": "01/06/2021"
+    },
+    "GP11": {
+        "nombre": "¡Sí, Quiero!",
+        "fecha": "23/02/2022"
+    },
+    "GP12": {
+        "nombre": "Licántropos",
+        "fecha": "16/06/2022"
+    },
+
+    "SP01": {
+        "nombre": "Fiesta Glamurosa",
+        "fecha": "19/05/2015"
+    },
+    "SP02": {
+        "nombre": "Patio de Ensueño",
+        "fecha": "16/06/2015"
+    },
+    "SP03": {
+        "nombre": "Cocina Divina",
+        "fecha": "11/08/2015"
+    },
+    "SP04": {
+        "nombre": "Escalofriante",
+        "fecha": "29/09/2015"
+    },
+    "SP05": {
+        "nombre": "Noche de Cine",
+        "fecha": "12/01/2016"
+    },
+    "SP06": {
+        "nombre": "Jardín Romántico",
+        "fecha": "09/02/2016"
+    },
+    "SP07": {
+        "nombre": "Cuarto de Niños",
+        "fecha": "28/06/2016"
+    },
+    "SP08": {
+        "nombre": "Diversión en el Patio",
+        "fecha": "19/07/2016"
+    },
+    "SP09": {
+        "nombre": "Glamour Vintage",
+        "fecha": "06/12/2016"
+    },
+    "SP10": {
+        "nombre": "Noche de Bolos",
+        "fecha": "29/03/2017"
+    },
+    "SP11": {
+        "nombre": "Fitness",
+        "fecha": "20/06/2017"
+    },
+    "SP12": {
+        "nombre": "Infantes",
+        "fecha": "24/08/2017"
+    },
+    "SP13": {
+        "nombre": "Día de Colada",
+        "fecha": "16/01/2018"
+    },
+    "SP14": {
+        "nombre": "Mi Primera Mascota",
+        "fecha": "13/03/2018"
+    },
+    "SP15": {
+        "nombre": "Moschino",
+        "fecha": "13/08/2019"
+    },
+    "SP16": {
+        "nombre": "Minicasas",
+        "fecha": "21/01/2020"
+    },
+    "SP17": {
+        "nombre": "Portentos del Punto",
+        "fecha": "28/07/2020"
+    },
+    "SP18": {
+        "nombre": "Fenómenos Paranormales",
+        "fecha": "26/01/2021"
+    },
+    "SP20": {
+        "nombre": "Moda Retro",
+        "fecha": "02/03/2021"
+    },
+    "SP21": {
+        "nombre": "Cocina Campestre",
+        "fecha": "02/03/2021"
+    },
+    "SP22": {
+        "nombre": "Zafarrancho de Limpieza",
+        "fecha": "02/03/2021"
+    },
+    "SP23": {
+        "nombre": "Oasis en el Patio",
+        "fecha": "18/05/2021"
+    },
+    "SP24": {
+        "nombre": "Fashion Street",
+        "fecha": "05/10/2021"
+    },
+    "SP25": {
+        "nombre": "Loft Industrial",
+        "fecha": "26/08/2021"
+    },
+    "SP26": {
+        "nombre": "Moda de Aeropuerto",
+        "fecha": "05/10/2021"
+    },
+    "SP28": {
+        "nombre": "Moda Masculina Moderna",
+        "fecha": "02/12/2021"
+    },
+    "SP29": {
+        "nombre": "Decoración Vegetal",
+        "fecha": "09/11/2021"
+    },
+    "SP30": {
+        "nombre": "Colores de Carnaval",
+        "fecha": "03/02/2022"
+    },
+    "SP31": {
+        "nombre": "Decoración Maximalista",
+        "fecha": "21/03/2022"
+    },
+    "SP32": {
+        "nombre": "Noches Chic",
+        "fecha": "26/05/2022"
+    },
+    "SP33": {
+        "nombre": "Minicampistas",
+        "fecha": "26/05/2022"
+    },
+    "SP34": {
+        "nombre": "Moda Mini",
+        "fecha": "01/09/2022"
+    },
+    "SP35": {
+        "nombre": "Oasis de Lujo",
+        "fecha": "14/09/2022"
+    },
+    "SP36": {
+        "nombre": "Pastel Pop",
+        "fecha": "10/11/2022"
+    },
+    "SP37": {
+        "nombre": "Desorden Decorativo",
+        "fecha": "10/11/2022"
+    },
+    "SP38": {
+        "nombre": "Moda Íntima",
+        "fecha": "19/01/2023"
+    },
+    "SP39": {
+        "nombre": "Objetos para el Baño",
+        "fecha": "19/01/2023"
+    },
+    "SP40": {
+        "nombre": "Invernadero Idílico",
+        "fecha": "20/04/2023"
+    },
+    "SP41": {
+        "nombre": "Tesoros del Sótano",
+        "fecha": "20/04/2023"
+    },
+    "SP42": {
+        "nombre": "Vuelta al Grunge",
+        "fecha": "01/06/2023"
+    },
+    "SP43": {
+        "nombre": "Rincón de Lectura",
+        "fecha": "01/06/2023"
+    },
+    "SP44": {
+        "nombre": "¡Al Agua, Patos!",
+        "fecha": "07/09/2023"
+    },
+    "SP45": {
+        "nombre": "Lujo Moderno",
+        "fecha": "07/09/2023"
+    },
+    "SP46": {
+        "nombre": "Chef de Casa",
+        "fecha": "28/09/2023"
+    },
+    "SP47": {
+        "nombre": "Castillo con Clase",
+        "fecha": "18/01/2024"
+    },
+    "SP48": {
+        "nombre": "Gusto Gótico",
+        "fecha": "18/01/2024"
+    },
+    "SP49": {
+        "nombre": "Creaciones Cristalinas",
+        "fecha": "29/02/2024"
+    },
+    "SP50": {
+        "nombre": "Homenaje Urbano",
+        "fecha": "18/04/2024"
+    },
+    "SP51": {
+        "nombre": "Decoración Festiva",
+        "fecha": "18/04/2024"
+    },
+    "SP52": {
+        "nombre": "Retiro en la Riviera",
+        "fecha": "30/05/2024"
+    },
+    "SP53": {
+        "nombre": "Bistró Acogedor",
+        "fecha": "30/05/2024"
+    },
+    "SP54": {
+        "nombre": "Estudio de Arte",
+        "fecha": "19/09/2024"
+    },
+    "SP55": {
+        "nombre": "Cuarto de Cuentos",
+        "fecha": "19/09/2024"
+    },
+    "SP56": {
+        "nombre": "Fiesta de Pijamas",
+        "fecha": "14/11/2024"
+    },
+    "SP57": {
+        "nombre": "Caprichos Kitsch",
+        "fecha": "14/11/2024"
+    },
+    "SP58": {
+        "nombre": "Rincón Gamer",
+        "fecha": "16/01/2025"
+    },
+    "SP59": {
+        "nombre": "Santuario Secreto",
+        "fecha": "16/01/2025"
+    },
+    "SP60": {
+        "nombre": "Cuarto de Casanova",
+        "fecha": "10/04/2025"
+    },
+    "SP61": {
+        "nombre": "Salón Sofisticado",
+        "fecha": "10/04/2025"
+    },
+    "SP62": {
+        "nombre": "Elegancia Ejecutiva",
+        "fecha": "01/05/2025"
+    },
+    "SP63": {
+        "nombre": "Baño Elegante",
+        "fecha": "01/05/2025"
+    },
+    "SP64": {
+        "nombre": "Estilo Encantador",
+        "fecha": "26/06/2025"
+    },
+    "SP65": {
+        "nombre": "Taller de Restauración",
+        "fecha": "26/06/2025"
+    },
+    "SP66": {
+        "nombre": "Años Dorados",
+        "fecha": "14/08/2025"
+    },
+    "SP67": {
+        "nombre": "Menaje de Cocina",
+        "fecha": "14/08/2025"
+    },
+    "SP68": {
+        "nombre": "Casa de Bob Esponja",
+        "fecha": "02/10/2025"
+    },
+    "SP69": {
+        "nombre": "Moda de Otoño",
+        "fecha": "02/10/2025"
+    },
+    "SP70": {
+        "nombre": "Cuarto Infantil de Bob Esponja",
+        "fecha": "16/10/2025"
+    },
+    "SP71": {
+        "nombre": "Recibidor Rural",
+        "fecha": "16/10/2025"
+    },
+    "SP72": {
+        "nombre": "Maquillaje con Glamour",
+        "fecha": "22/01/2026"
+    },
+    "SP73": {
+        "nombre": "Retiro Moderno",
+        "fecha": "22/01/2026"
+    },
+    "SP74": {
+        "nombre": "De la Huerta a la Mesa",
+        "fecha": "19/03/2026"
+    },
+    "SP75": {
+        "nombre": "Cuarto de las Maravillas",
+        "fecha": "19/03/2026"
+    },
+    "SP76": {
+        "nombre": "Estilo de Cine Clásico",
+        "fecha": "30/04/2026"
+    },
+    "SP77": {
+        "nombre": "Hora del Té",
+        "fecha": "30/04/2026"
+    },
+    "SP78": {
+        "nombre": "Salón de Baile de Máscaras de LB",
+        "fecha": "21/05/2026"
+    },
+    "SP79": {
+        "nombre": "Galas de Baile de Máscaras de LB",
+        "fecha": "21/05/2026"
+    },
+    "SP81": {
+        "nombre": "Sueños Silvestres",
+        "fecha": "18/06/2026"
+    },
+    "SP82": {
+        "nombre": "El Patio de mi Casa",
+        "fecha": "18/06/2026"
+    }
+}

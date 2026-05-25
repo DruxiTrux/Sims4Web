@@ -1,0 +1,197 @@
+body{
+
+    position:relative;
+    margin:0;
+    padding:0;
+
+    background-image:url("fondo.jpg");
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+
+    font-family:Arial;
+
+    color:white;
+
+    overflow:hidden;
+}
+
+.contenedor{
+
+    width:95%;
+    margin:auto;
+
+    padding-top:20px;
+}
+
+h1{
+
+    text-align:center;
+
+    color:#00e676;
+
+    margin-bottom:25px;
+
+    text-shadow:0 0 10px #00e676;
+}
+
+#buscador{
+
+    width:350px;
+
+    display:block;
+
+    margin:auto;
+
+    padding:14px;
+
+    border:none;
+
+    outline:none;
+
+    border-radius:12px;
+
+    background:#151515;
+
+    color:white;
+
+    font-size:16px;
+
+    box-shadow:0 0 10px #00c853;
+
+    transition:0.2s;
+}
+
+#buscador:focus{
+
+    box-shadow:0 0 20px #00e676;
+}
+
+.contenido{
+
+    display:flex;
+
+    gap:20px;
+
+    margin-top:30px;
+}
+
+#lista{
+
+    width:40%;
+
+    height:520px;
+
+    overflow-y:auto;
+
+    background:#151515;
+
+    border-radius:14px;
+
+    padding:10px;
+}
+
+.item{
+
+    padding:12px;
+
+    margin-bottom:5px;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    transition:0.2s;
+}
+
+.item:hover{
+
+    background:#1f5f3a;
+}
+
+.item.activo{
+
+    background:#00c853;
+}
+
+.panel{
+
+    width:60%;
+
+    background:#151515;
+
+    border-radius:14px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    padding:20px;
+}
+
+#imagen{
+
+    max-width:400px;
+
+    max-height:400px;
+
+    object-fit:contain;
+}
+
+#info{
+
+    margin-top:20px;
+
+    text-align:center;
+
+    font-size:18px;
+}
+
+body::before{
+
+    content:"";
+
+    position:fixed;
+
+    inset:0;
+
+    background:rgba(0,0,0,0.65);
+
+    backdrop-filter:blur(3px);
+
+    z-index:-1;
+}
+
+.item{
+
+    animation:aparecer 0.2s ease;
+}
+
+@keyframes aparecer{
+
+    from{
+
+        opacity:0;
+        transform:translateY(8px);
+    }
+
+    to{
+
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+#imagen{
+
+    transition:0.3s;
+}
+
+#imagen:hover{
+
+    transform:scale(1.03);
+}
