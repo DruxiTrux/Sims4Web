@@ -128,29 +128,24 @@ h1{
 
     align-items:center;
 
-    justify-content:center;
-
     gap:30px;
 
     padding:30px;
 }
-
 #imagen{
 
-    max-width:400px;
+    max-width:300px;
 
-    max-height:400px;
-
-    object-fit:contain;
+    border-radius:14px;
 }
 
 #info{
 
+    color:white;
+
     font-size:20px;
 
     text-align:left;
-
-    max-width:250px;
 }
 
 body::before{
