@@ -31,10 +31,46 @@ function mostrarTodos(){
 
     lista.innerHTML = "";
 
+    crearCategoria("EXPANSIONES");
+
     for(let codigo in packs){
 
-        crearItem(codigo, packs[codigo]);
+        if(codigo.startsWith("EP")){
+
+            crearItem(codigo, packs[codigo]);
+        }
     }
+
+    crearCategoria("GAME PACKS");
+
+    for(let codigo in packs){
+
+        if(codigo.startsWith("GP")){
+
+            crearItem(codigo, packs[codigo]);
+        }
+    }
+
+    crearCategoria("STUFF PACKS / KITS");
+
+    for(let codigo in packs){
+
+        if(codigo.startsWith("SP")){
+
+            crearItem(codigo, packs[codigo]);
+        }
+    }
+}
+
+function crearCategoria(nombre){
+
+    const categoria = document.createElement("div");
+
+    categoria.classList.add("categoria");
+
+    categoria.innerText = nombre;
+
+    lista.appendChild(categoria);
 }
 
 
