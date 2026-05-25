@@ -258,3 +258,22 @@ body::before{
         font-size:16px;
     }
 }
+
+.categoria{
+
+    color:#00e676;
+
+    font-weight:bold;
+
+    font-size:18px;
+
+    margin-top:20px;
+
+    margin-bottom:10px;
+
+    padding-bottom:5px;
+
+    border-bottom:1px solid #00c853;
+
+    text-shadow:0 0 8px #00e676;
+}
