@@ -31,6 +31,10 @@ function mostrarTodos(){
 
     lista.innerHTML = "";
 
+    // =========================
+    // EXPANSIONES
+    // =========================
+
     crearCategoria("EXPANSIONES");
 
     for(let codigo in packs){
@@ -41,6 +45,10 @@ function mostrarTodos(){
         }
     }
 
+    // =========================
+    // GAME PACKS
+    // =========================
+
     crearCategoria("GAME PACKS");
 
     for(let codigo in packs){
@@ -50,6 +58,10 @@ function mostrarTodos(){
             crearItem(codigo, packs[codigo]);
         }
     }
+
+    // =========================
+    // STUFF PACKS
+    // =========================
 
     crearCategoria("STUFF PACKS / KITS");
 
